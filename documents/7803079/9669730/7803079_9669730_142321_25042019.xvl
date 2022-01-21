@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LECTURE_INFO commonLib="vlImage.swf" AppName="Getting Started" PageTransition="" Check="90" CommonDir="Common" Title="Unit 11. Science and Technology. Lesson 1. Getting started" Layout="Layout1.swf" Version="1.934">
+  <BACKGROUND_INFO>
+    <ITEM_INFO />
+  </BACKGROUND_INFO>
+  <SECTION_INFO invisible="true" coverpage="true" label="Trang bìa">
+    <ITEM_INFO fullscreen="true" label="Trang bìa" title="">
+      <IMAGE url="Data/2016-10-14_111647.jpg" left="2.05" top="-1.05" xscale="134.520202020202" yscale="138.48623853211" locked="true" id="11" />
+      <TEXT left="4.25" top="7.7" width="791" height="135" font="Times New Roman" size="52" color="16711680" bold="true" id="6">&lt;B&gt;Unit 11: Science and Technology&lt;/B&gt;</TEXT>
+      <TEXT left="57.2" top="67.05" width="654.5" height="107.9" font="Times New Roman" size="40" color="255" bold="true" align="center" leading="6" id="7">&lt;B&gt;Lesson 1. Getting Started&lt;/B&gt;</TEXT>
+      <TEXT left="44.5" top="111.25" width="654.6" height="99.7" font="Times New Roman" size="36" bold="true" italic="true" align="center" leading="6" id="8">&lt;B&gt;&lt;I&gt;(At the Science Club)&lt;/I&gt;&lt;/B&gt;</TEXT>
+      <IMAGE url="Data/Technology_Background_Images_6.jpg" left="0.25" top="161.2" xscale="119.373134328358" yscale="130.36303630363" id="10" />
+      <IMAGE url="Data/ENGLISH8.png" left="515" top="558.25" xscale="23.8908145580589" yscale="23.8897578546656" id="9" />
+    </ITEM_INFO>
+  </SECTION_INFO>
+  <SECTION_INFO label="WARM-UP" bkgnd="0">
+    <ITEM_INFO label="Let's see a video" title="">
+      <IMAGE url="Data/44512AMnhieu.jpg" left="51" top="32.1" xscale="141.775" yscale="129.933110367893" id="6" />
+      <TEXT left="22.25" top="7.4" width="599.5" height="71.7" font="Arial" size="24" color="153" bold="true" id="1">&lt;FONT SIZE=&quot;24&quot; COLOR=&quot;#000099&quot;&gt;&lt;B&gt;Let&amp;apos;s see a video and answer the questions&lt;/B&gt;&lt;/FONT&gt;</TEXT>
+      <TEXT left="33.75" top="408.9" width="599.6" height="85.7" font="Arial" size="20" align="left" leading="6" id="3">&lt;FONT SIZE=&quot;20&quot; COLOR=&quot;#000000&quot;&gt;&lt;B&gt;What do this video show?&lt;/B&gt;&lt;/FONT&gt;&lt;FONT SIZE=&quot;20&quot; COLOR=&quot;#000000&quot;&gt;&lt;B&gt;How would Science and Technology affect our daily life?&lt;/B&gt;&lt;/FONT&gt;</TEXT>
+      <MEDIA url="Data/History_of_Transportation.mp4" left="76.5" top="61.65" width="515.2" height="275.65" hideControl="true" autoPlay="true" time="153.065941043084" id="4" />
+    </ITEM_INFO>
+    <ITEM_INFO label="- Suggested answer" title="">
+      <TEXT left="24.75" top="14" width="600.1" height="71.9" font="Arial" size="24" bold="true" align="left" leading="6" id="5">&lt;B&gt;What do this video show?&lt;/B&gt;</TEXT>
+      <TEXT left="23" top="94.6" width="600.2" height="105.9" font="Arial" size="24" bold="true" align="left" leading="6" id="6">&lt;B&gt;How would Science and Technology affect our daily life?&lt;/B&gt;</TEXT>
+      <TEXT left="29.65" top="49.3" width="600.2" height="71.9" font="Arial" size="24" color="255" bold="true" align="left" leading="6" animation="1,1" id="7">&lt;B&gt;=&amp;gt; History development of transportation&lt;/B&gt;</TEXT>
+      <TEXT left="13.6" top="162.4" width="644.5" height="309.8" font="Arial" size="24" color="255" align="left" leading="6" animation="1,1" id="8">&lt;B&gt;=&amp;gt; Science and Technology play important roles in our daily life.&lt;/B&gt;&lt;B&gt;Transport and its development help human travel faster and faster and feel comfortable. &lt;/B&gt;&lt;B&gt;Without them, we&amp;apos;d still be walking, cycling, traveling by sea or traveling by horse and cart which is far more time consuming and limits how far one can go in certain time spans. &lt;/B&gt;</TEXT>
+    </ITEM_INFO>
+  </SECTION_INFO>
+  <SECTION_INFO label="I. LISTEN AND READ">
+    <ITEM_INFO label="New words" title="">
+      <TEXT left="46.05" top="8.25" width="582.9" height="103" font="Arial" size="24" align="center" leading="6" id="11">&lt;FONT COLOR=&quot;#FF0000&quot;&gt;&lt;B&gt;Unit 11: SCIENCE AND TECHNOLOGY&lt;/B&gt;&lt;/FONT&gt;&lt;FONT COLOR=&quot;#0000FF&quot;&gt;&lt;B&gt;Lesson 1: Getting Started&lt;/B&gt;&lt;/FONT&gt;</TEXT>
+      <TEXT left="19.75" top="68.3" width="320.05" height="71.7" font="Arial" size="24" color="16711680" bold="true" align="left" leading="6" id="12">&lt;B&gt;1/ Vocabulary:&lt;/B&gt;</TEXT>
+      <IMAGE url="Data/Vocab.jpg" left="20.75" top="101.6" xscale="46.8359375" yscale="46.8357620960933" id="13" />
+    </ITEM_INFO>
+    <ITEM_INFO label="Set the scene" title="">
+      <PLUGIN url="Common/VShape.swf" left="-4.2" top="-0.8" player="vpShape\VShape.swf" locked="true" id="0">
+        <SHAPE_INFO>
+          <OBJECT_INFO type="1" width="669.499999999999" height="469.8" lineColor="204" lineThick="0" backColor="39219" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <IMAGE url="Data/2016-10-17_144819.jpg" left="141.6" top="5.75" xscale="94.85" yscale="58.0350407784535" effects="vlImage:0,0,6,16777215" id="2" />
+      <TEXT left="14.85" top="321.7" width="633.2" height="136.85" font="Arial" size="24" color="16777215" align="left" leading="6" animation="1,1" id="3">&lt;B&gt;Duong, Nick , and Chau are talking with Dr.Nelson after listening to his talk about the roles of science &lt;/B&gt;&lt;B&gt;and technology in the latex(21^(st)) century.&lt;/B&gt;</TEXT>
+    </ITEM_INFO>
+    <ITEM_INFO elInfo="MeasureWeight:1;PassingScore:50;TryLimit:1;TimeLimit:60" label="Listen to the conversation" title="">
+      <MEDIA url="Data/Unit11._Getting_Started._Listen_and_read._Activity_1.mp3" left="458.45" top="312.65" width="180" height="56" constrain="false" time="108.33" id="4" />
+      <PLUGIN url="Common/VShape.swf" left="9.1" top="4.1" constrain="false" player="vpShape\VShape.swf" id="0">
+        <SHAPE_INFO>
+          <OBJECT_INFO type="1" width="638.65" height="36.25" lineColor="204" lineThick="0" backColor="16777215" backTrans="100" label="Listen to the conversation between Duong, Nick, Chau and Dr. Nelson" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Times New Roman" _size="20" _color="16711680" _bold="true" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <IMAGE url="Data/2016-10-17_144819.jpg" left="442.85" top="55.15" xscale="50.2375" yscale="45.8257713248639" id="1" />
+      <TEXT left="34" top="46.8" width="383" height="118.75" font="Arial" size="20" bold="true" align="left" leading="6" id="5">&lt;B&gt;What fields are mentioned in the part of the conversation which are affected by science and technology?  &lt;/B&gt;</TEXT>
+      <PLUGIN url="Common/VTest.swf" left="16.5189662537377" top="142.289614855571" xscale="63.7932507475438" yscale="87.9229711141678" player="vpTest\VTest.swf" id="11">
+        <TEST_INFO>
+          <QUESTION_INFO Question="" Type="3" Image="">
+            <SOLUTION_INFO Solution="- communication" Answer="true" />
+            <SOLUTION_INFO Solution="- travel" Answer="true" />
+            <SOLUTION_INFO Solution="- entertainment" Answer="false" />
+            <SOLUTION_INFO Solution="-  economic development" Answer="true" />
+          </QUESTION_INFO>
+        </TEST_INFO>
+        <EXTRA_INFO>
+          <LANGUAGE ptest1="Result" ptest2="Redo" ptest3="Yes" ptest4="No" ptest5="Question" ptest6="Answer" ptest10="Well done!" ptest11="Sorry! Try again." file_message="Data/SunFlower.swf" file_button="Data/Result.swf" />
+          <TEXTFORMAT _font="Arial" _size="20" _color="255" _bold="true" _italic="false" _underline="false" _align="left" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+    </ITEM_INFO>
+    <ITEM_INFO label="Practice the conversation" title="">
+      <IMAGE url="Data/Picture1._unit_11._lesson_1.png" left="8.15" top="0.75" xscale="53.7708333333333" yscale="31.4150943396226" autoanimate="true" animation="1,1" id="24" />
+      <TEXT left="19.75" top="11.5" width="778.05" height="60.2" font="Arial" size="14" color="255" align="left" leading="2" autoanimate="true" animation="1,1" id="25">&lt;B&gt;Duong, Nick , and Chau are talking with Dr.Nelson after listening to his talk about the &lt;/B&gt;&lt;B&gt;roles of science and technology in the latex(21^(st)) century.&lt;/B&gt;</TEXT>
+      <TEXT left="1.4" top="72.9" width="159.65" height="42.05" font="Arial" size="14" color="51" bold="true" align="left" leading="1" autoanimate="true" animation="1,1" id="9">&lt;B&gt;Dr. Nelson:&lt;/B&gt;</TEXT>
+      <TEXT left="98.6" top="73.25" width="557.5" height="60.2" font="Arial" size="14" color="255" bold="true" align="left" leading="2" autoanimate="true" animation="1,1" id="10">&lt;B&gt;Well, as you know, developments in science and technology are greatly changing the way we live, communicate, travel, everything...&lt;/B&gt;</TEXT>
+      <TEXT left="1.4" top="113.6" width="159.65" height="42.05" font="Arial" size="14" color="51" bold="true" align="left" leading="1" autoanimate="true" animation="1,1" id="26">&lt;B&gt;Duong:&lt;/B&gt;</TEXT>
+      <TEXT left="98.6" top="113.5" width="584.2" height="42.9" font="Arial" size="14" color="255" bold="true" align="left" leading="2" autoanimate="true" animation="1,1" id="27">&lt;B&gt;You mean science and technology are changing our lives in every field?&lt;/B&gt;</TEXT>
+      <TEXT left="1.4" top="139.05" width="159.65" height="42.05" font="Arial" size="14" color="51" bold="true" align="left" leading="1" autoanimate="true" animation="1,1" id="28">&lt;B&gt;Dr. Nelson:&lt;/B&gt;</TEXT>
+      <TEXT left="98.6" top="139" width="543.95" height="42.9" font="Arial" size="14" color="255" bold="true" align="left" leading="2" autoanimate="true" animation="1,1" id="29">&lt;B&gt;Right.&lt;/B&gt;</TEXT>
+      <TEXT left="1.4" top="167" width="159.65" height="42.05" font="Arial" size="14" color="51" bold="true" align="left" leading="1" autoanimate="true" animation="1,1" id="30">&lt;B&gt;Duong:&lt;/B&gt;</TEXT>
+      <TEXT left="98.6" top="166.5" width="543.95" height="42.9" font="Arial" size="14" color="255" bold="true" align="left" leading="2" autoanimate="true" animation="1,1" id="31">&lt;B&gt;For the better?&lt;/B&gt;</TEXT>
+      <TEXT left="1.4" top="191.7" width="159.65" height="42.05" font="Arial" size="14" color="51" bold="true" align="left" leading="1" autoanimate="true" animation="1,1" id="32">&lt;B&gt;Dr. Nelson:&lt;/B&gt;</TEXT>
+      <TEXT left="98.6" top="190.85" width="561.6" height="60.2" font="Arial" size="14" color="255" bold="true" align="left" leading="2" autoanimate="true" animation="1,1" id="33">&lt;B&gt;Mostly for the better. Science and technology also have enormous effects on economic development.&lt;/B&gt;</TEXT>
+      <TEXT left="1.4" top="233.55" width="159.65" height="42.05" font="Arial" size="14" color="51" bold="true" align="left" leading="1" autoanimate="true" animation="1,1" id="34">&lt;B&gt;Nick:&lt;/B&gt;</TEXT>
+      <TEXT left="98.6" top="233.55" width="543.95" height="60.2" font="Arial" size="14" color="255" bold="true" align="left" leading="2" autoanimate="true" animation="1,1" id="35">&lt;B&gt;Well, my dad told me that  only robots would work in factories and clean our homes in the future. Is it right, Dr. Nelson?&lt;/B&gt;</TEXT>
+      <TEXT left="1.4" top="279.7" width="159.65" height="42.05" font="Arial" size="14" color="51" bold="true" align="left" leading="1" autoanimate="true" animation="1,1" id="36">&lt;B&gt;Dr. Nelson:&lt;/B&gt;</TEXT>
+      <TEXT left="98.6" top="279.7" width="543.95" height="60.2" font="Arial" size="14" color="255" bold="true" align="left" leading="2" autoanimate="true" animation="1,1" id="37">&lt;B&gt;Sure. And we&amp;apos;ll have flying cars and spaceships so that we can travel faster and further than before.&lt;/B&gt;</TEXT>
+      <TEXT left="1.4" top="318.35" width="159.65" height="42.05" font="Arial" size="14" color="51" bold="true" align="left" leading="1" autoanimate="true" animation="1,1" id="38">&lt;B&gt;Chau:&lt;/B&gt;</TEXT>
+      <TEXT left="98.6" top="318.7" width="543.8" height="42.9" font="Arial" size="14" color="255" bold="true" align="left" leading="2" autoanimate="true" animation="1,1" id="39">&lt;B&gt;So we don&amp;apos;t have traffic jams any more?&lt;/B&gt;</TEXT>
+      <TEXT left="1.4" top="340.4" width="159.65" height="42.05" font="Arial" size="14" color="51" bold="true" align="left" leading="1" autoanimate="true" animation="1,1" id="40">&lt;B&gt;Dr. Nelson:&lt;/B&gt;</TEXT>
+      <TEXT left="98.6" top="340.4" width="543.95" height="60.2" font="Arial" size="14" color="255" bold="true" align="left" leading="2" autoanimate="true" animation="1,1" id="41">&lt;B&gt;No, we won&amp;apos;t. Science and technology are the keys to development in other fields too. They will certainly bring a lot more benefits to people.&lt;/B&gt;</TEXT>
+      <TEXT left="1.4" top="378.75" width="159.65" height="42.05" font="Arial" size="14" color="51" bold="true" align="left" leading="1" autoanimate="true" animation="1,1" id="42">&lt;B&gt;Chau:&lt;/B&gt;</TEXT>
+      <TEXT left="98.6" top="378.25" width="543.95" height="60.2" font="Arial" size="14" color="255" bold="true" align="left" leading="2" autoanimate="true" animation="1,1" id="43">&lt;B&gt;And what about education? Our science teacher said that there would be no more schools; we&amp;apos;d just stay at home and learn on the Internet.&lt;/B&gt;</TEXT>
+      <TEXT left="1.4" top="418.25" width="159.65" height="42.05" font="Arial" size="14" color="51" bold="true" align="left" leading="1" autoanimate="true" animation="1,1" id="44">&lt;B&gt;Dr. Nelson:&lt;/B&gt;</TEXT>
+      <TEXT left="98.6" top="418.25" width="543.95" height="42.9" font="Arial" size="14" color="255" bold="true" align="left" leading="2" autoanimate="true" animation="1,1" id="45">&lt;B&gt;That&amp;apos;s right. Students won&amp;apos;t go to the school like now...&lt;/B&gt;</TEXT>
+      <TEXT left="1.4" top="440.25" width="159.65" height="42.05" font="Arial" size="14" color="51" bold="true" align="left" leading="1" autoanimate="true" animation="1,1" id="46">&lt;B&gt;Duong:&lt;/B&gt;</TEXT>
+      <TEXT left="98.6" top="440.25" width="543.95" height="42.9" font="Arial" size="14" color="255" bold="true" align="left" leading="2" autoanimate="true" animation="1,1" id="47">&lt;B&gt;Wow! I hope that happens soon.&lt;/B&gt;</TEXT>
+      <MEDIA url="Data/Unit11._Getting_Started._Listen_and_read._Activity_1.mp3" left="493.05" top="410.55" width="137.75" height="56" constrain="false" autoPlay="true" time="108.33" id="48" />
+    </ITEM_INFO>
+  </SECTION_INFO>
+  <SECTION_INFO bkgnd="0" label="II. ACTIVITIES">
+    <ITEM_INFO elInfo="MeasureWeight:1;PassingScore:50;TryLimit:1;TimeLimit:60" label="Activity 1- Task a" title="">
+      <TEXT left="-2.05" top="5.75" width="320.6" height="61.35" font="Arial" size="20" bold="true" align="left" leading="6" id="0">&lt;FONT COLOR=&quot;#993300&quot;&gt;&lt;B&gt;1/a.&lt;/B&gt;&lt;FONT COLOR=&quot;#990000&quot;&gt;&lt;B&gt; &lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;</TEXT>
+      <TEXT left="31.3" top="6.6" width="630.9" height="121.75" font="Arial" size="20" color="10027008" align="left" leading="6" id="1">&lt;B&gt;Find the words in A in the conversation. Then match them to the words in B with similar meanings:&lt;/B&gt;</TEXT>
+      <PLUGIN url="Common/VTest.swf" left="16.65" top="58.857185778668" yscale="91.4371557336004" player="vpTest\VTest.swf" id="2">
+        <TEST_INFO>
+          <QUESTION_INFO Question="" Type="2" Image="">
+            <SOLUTION_INFO Solution="Developments" Answer="Progress (n)" />
+            <SOLUTION_INFO Solution="Field" Answer="Area" />
+            <SOLUTION_INFO Solution="Enormous" Answer="Big" />
+            <SOLUTION_INFO Solution="Economic" Answer="Money-making" />
+            <SOLUTION_INFO Solution="The keys" Answer="The answers" />
+            <SOLUTION_INFO Solution="Benefits" Answer="Help" />
+          </QUESTION_INFO>
+        </TEST_INFO>
+        <EXTRA_INFO>
+          <LANGUAGE ptest1="Result" ptest2="Redo" ptest3="Correct" ptest4="Incorrect" ptest5="A" ptest6="B" ptest10="Well done!" ptest11="Sorry! Try again." file_message="Data/SunFlower(1).swf" file_button="Data/Result(1).swf" />
+          <TEXTFORMAT _font="Arial" _size="20" _color="255" _bold="true" _italic="false" _underline="false" _align="left" _leading="2" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+    </ITEM_INFO>
+    <ITEM_INFO label="Activity 1- Task b" title="">
+      <TEXT left="4.9" top="5.75" width="320.5" height="63.45" font="Arial" size="20" bold="true" align="left" leading="6" id="0">&lt;FONT COLOR=&quot;#993300&quot;&gt;&lt;B&gt;1/ b.&lt;/B&gt;&lt;FONT COLOR=&quot;#990000&quot;&gt;&lt;B&gt; &lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;</TEXT>
+      <TEXT left="53.5" top="6.6" width="486.5" height="88.15" font="Arial" size="20" color="10027008" align="left" leading="6" id="1">&lt;B&gt;Answer the questions.&lt;/B&gt;</TEXT>
+      <PLUGIN url="Common/VDrag.swf" left="37.05" top="14.8" player="vpDrag\VDrag.swf" id="3">
+        <DRAGDROP_INFO>
+          <QUESTION_INFO Question="" Type="2" Image="" Text="1. Where are Nick, Duong and Chau? =&gt; ||They are at the Science Club.||2. What is the subject of Dr.Nelson’s talk? =&gt; ||It is the roles of science and technology in the 21st century. ||3. What fields are science and technology greatly changing? =&gt; ||Science and technology are changing everything.||4.  What did Nick’s dad tell him?=&gt;||He told Nick that only robots would work in factories and ||    ||clean our homes in the future.||5. What did Chau’s science teacher say? =&gt;||Chau’s science teacher said that there would be no more ||     ||schools: They’d just stay at home and learn on the internet.||" />
+          <INTERERE_INFO List="" />
+        </DRAGDROP_INFO>
+        <EXTRA_INFO>
+          <LANGUAGE btn_result="Result" btn_redo="Redo" msg_correct="Excellent!" msg_wrong="Sorry! Try again." file_message="Data/SunFlower.swf" file_button="Data/Result.swf" />
+          <TEXTFORMAT _font="Arial" _size="18" _color="255" _bold="true" _italic="false" _underline="false" _align="left" _leading="4" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+    </ITEM_INFO>
+    <ITEM_INFO label="Reported speech - Statement" title="">
+      <TEXT left="25.55" top="64.1" width="461.5" height="70.05" font="Arial" size="24" align="left" leading="6" animation="3,0" id="0">What did Chau&amp;apos;s science teacher say?</TEXT>
+      <TEXT left="27.2" top="114.4" width="542.85" height="130.95" font="Arial" size="24" color="204" align="left" leading="20" animation="3,0" id="1">He/ She said that there would be no more schools: they&amp;apos;d just stay at home and learn on the internet.  </TEXT>
+      <PLUGIN url="Common/VShape.swf" left="29.8" top="141.9" player="vpShape\VShape.swf" animation="1,0" id="2">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="-0.100000000000023" x1="74.7" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="3" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="54.35" top="142.35" width="25.5" height="63.45" font="Arial" size="20" color="16711680" bold="true" align="left" leading="6" animation="0,0" id="3">&lt;B&gt;S&lt;/B&gt;</TEXT>
+      <PLUGIN url="Common/VShape.swf" left="121.8" top="141.9" player="vpShape\VShape.swf" animation="1,0" id="4">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="0" x1="42.75" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="3" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <PLUGIN url="Common/VShape.swf" left="219.8" top="141.9" player="vpShape\VShape.swf" animation="1,0" id="5">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="0" x1="42.75" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="3" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="230.35" top="142.35" width="25.5" height="63.45" font="Arial" size="20" color="16711680" bold="true" align="left" leading="6" animation="0,0" id="6">&lt;B&gt;S&lt;/B&gt;</TEXT>
+      <PLUGIN url="Common/VShape.swf" left="286.8" top="141.9" player="vpShape\VShape.swf" animation="1,0" id="7">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="0" x1="42.75" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="3" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="295.5" top="140.7" width="27.95" height="27.95" font="Arial" size="20" color="16711680" align="left" leading="6" animation="0,0" id="8">&lt;B&gt;V&lt;/B&gt; </TEXT>
+      <PLUGIN url="Common/VShape.swf" left="29.65" top="189.25" player="vpShape\VShape.swf" animation="1,0" id="9">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="-0.0500000000000114" x1="28" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="3" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <PLUGIN url="Common/VShape.swf" left="77.1" top="189.5" player="vpShape\VShape.swf" autoanimate="true" animation="1,0" id="10">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="0" x1="15.6" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="3" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <PLUGIN url="Common/VShape.swf" left="139.1" top="189.5" player="vpShape\VShape.swf" autoanimate="true" animation="1,0" id="11">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="0" x1="42" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="3" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="77.35" top="217.25" width="573.5" height="85.7" font="Arial" align="left" leading="6" animation="1,0" id="12">&lt;FONT SIZE=&quot;24&quot; COLOR=&quot;#FF0000&quot;&gt;&lt;B&gt;S + said / told (that) + clause...&lt;/B&gt;&lt;/FONT&gt;&lt;FONT SIZE=&quot;24&quot; COLOR=&quot;#FF0000&quot;&gt;&lt;B&gt;                                           &lt;/B&gt;&lt;FONT SIZE=&quot;18&quot; COLOR=&quot;#0000FF&quot;&gt;&lt;B&gt;(S + V lùi thì)&lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;</TEXT>
+      <PLUGIN url="Common/VShape.swf" left="75.6" top="205.65" player="vpShape\VShape.swf" autoanimate="true" animation="4,0" id="13">
+        <SHAPE_INFO>
+          <OBJECT_INFO type="1" width="511.05" height="69.1" lineColor="0" lineThick="2" backColor="16777215" backTrans="0" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="24.75" top="15.6" width="413.45" height="71.7" font="Arial" size="24" color="16711680" bold="true" align="left" leading="6" animation="1,0" id="14">&lt;B&gt;2/ Reported speech: Statement&lt;/B&gt;</TEXT>
+    </ITEM_INFO>
+    <ITEM_INFO label="Activity 1- Task c" title="">
+      <TEXT left="-1.05" top="5.75" width="320.95" height="61.35" font="Arial" size="20" bold="true" align="left" leading="6" id="0">&lt;FONT COLOR=&quot;#993300&quot;&gt;&lt;B&gt;1/c&lt;/B&gt;&lt;FONT COLOR=&quot;#990000&quot;&gt;&lt;B&gt;. &lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;</TEXT>
+      <TEXT left="31.3" top="5.75" width="631.6" height="90.05" font="Arial" size="20" color="10027008" bold="true" align="left" leading="6" id="1">&lt;B&gt;Work in a partner. What fields are mentioned in the conversation which are affected by science and technology?&lt;/B&gt;</TEXT>
+      <TEXT left="25.7" top="68.75" width="168.4" height="61.35" font="Arial" size="20" color="255" bold="true" align="left" leading="6" animation="1,1" id="13">&lt;B&gt;Way of living&lt;/B&gt;</TEXT>
+      <IMAGE url="Data/lifestyle-tax-relief.jpg" left="18.8" top="106.45" xscale="23.0625" yscale="26.95" autoanimate="true" animation="0,0" id="14" />
+      <IMAGE url="Data/The-changing-landscape-of-customer-communication.png" left="232.55" top="79.3" xscale="24.83125" yscale="33.2324037195492" animation="0,0" id="16" />
+      <TEXT left="427.4" top="74" width="210.4" height="61.35" font="Arial" size="20" color="255" bold="true" align="center" leading="6" animation="1,1" id="11">&lt;B&gt;Travel&lt;/B&gt;</TEXT>
+      <IMAGE url="Data/Transportation.jpg" left="446.35" top="94.4" xscale="60.3666666666667" yscale="54.5777777777778" autoanimate="true" animation="1,1" id="10" />
+      <TEXT left="9.8" top="238.65" width="132.15" height="90.05" font="Arial" size="20" color="255" bold="true" align="center" leading="6" animation="1,1" id="3">&lt;B&gt;Economic development&lt;/B&gt;</TEXT>
+      <IMAGE url="Data/Economic_Development.jpeg" left="13.6" top="299.1" xscale="22.0625" yscale="25.21875" autoanimate="true" animation="1,1" id="4" />
+      <TEXT left="160.1" top="237.15" width="160.1" height="90.05" font="Arial" size="20" color="255" bold="true" align="center" leading="6" animation="1,1" id="5">&lt;B&gt;Industrial development&lt;/B&gt;</TEXT>
+      <IMAGE url="Data/industry.jpg" left="163.85" top="293" xscale="50.35" yscale="63.1435643564356" autoanimate="true" animation="1,1" id="6" />
+      <TEXT left="322.5" top="237.15" width="133.65" height="90.05" font="Arial" size="20" color="255" bold="true" align="center" leading="6" animation="1,1" id="7">&lt;B&gt;Household chores&lt;/B&gt;</TEXT>
+      <IMAGE url="Data/Housework_robot.jpg" left="344.25" top="295.45" xscale="55.94" yscale="73.5714285714286" autoanimate="true" animation="1,1" id="8" />
+      <TEXT left="483.35" top="241.7" width="160.85" height="61.35" font="Arial" size="20" color="255" bold="true" align="center" leading="6" animation="1,1" id="17">&lt;B&gt;Education&lt;/B&gt;</TEXT>
+      <IMAGE url="Data/education_technology.jpg" left="502.25" top="294.5" xscale="30.9333333333333" yscale="40.2950819672131" autoanimate="true" animation="1,1" id="12" />
+    </ITEM_INFO>
+    <ITEM_INFO label="Activity 1- Task d" title="">
+      <IMAGE url="Data/background_unit_9._a_closer_5.png" left="6" top="34.5" xscale="37.2169249106079" yscale="18.4318181818182" id="4" />
+      <TEXT left="4.9" top="5.75" width="320.65" height="63.45" font="Arial" size="20" color="10040064" bold="true" align="left" leading="6" id="0">&lt;B&gt;1/d. &lt;/B&gt;</TEXT>
+      <TEXT left="39.3" top="6.6" width="631" height="63.45" font="Arial" size="20" color="10027008" bold="true" align="left" leading="6" id="1">&lt;B&gt;Put a word/ phrase from the box in each blank.&lt;/B&gt;</TEXT>
+      <PLUGIN url="Common/VDrag.swf" left="30.4" top="23.85" player="vpDrag\VDrag.swf" id="3">
+        <DRAGDROP_INFO>
+          <QUESTION_INFO Question="" Type="0" Image="" Text="1. Technology in the ||field|| of telecommunications has     developed greatly over the last decade. 2. In the future, ordinary people may travel into ||space|| on     spaceships. 3. He said he worked very hard and that was ||the key|| to     his success. 4. An international meeting on ||economic development|| took place in     Singapore last week.5. If we had ||flying cars|| now, we could solve the problem of     traffic jams.  " />
+          <INTERERE_INFO List="" />
+        </DRAGDROP_INFO>
+        <EXTRA_INFO>
+          <LANGUAGE btn_result="Result" btn_redo="Redo" msg_correct="Well done!" msg_wrong="Sorry! Try again." file_message="Data/SunFlower.swf" file_button="Data/Result.swf" />
+          <TEXTFORMAT _font="Arial" _size="16" _color="255" _bold="true" _italic="false" _underline="false" _align="left" _leading="4" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <PLUGIN url="Common/VShape.swf" left="147.3" top="202.4" player="vpShape\VShape.swf" animation="1,0" id="5">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="0" x1="70.2" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="2" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <PLUGIN url="Common/VShape.swf" left="464.5" top="291" player="vpShape\VShape.swf" animation="1,0" id="6">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="0" x1="70.2" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="2" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <PLUGIN url="Common/VShape.swf" left="54.4" top="356.45" player="vpShape\VShape.swf" animation="1,0" id="8">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="0" x1="70.2" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="2" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+    </ITEM_INFO>
+    <ITEM_INFO label="Talented Yellow Frog" title="">
+      <PLUGIN url="Common/VFootball.swf" left="38.6" top="14.75" player="vpOlympicFootball\VFootball.swf" id="0">
+        <OLYMPIC_FOOTBALL_INFO library="">
+          <root data_source_id="0" time="180" correct_point="10" wrong_point="-5" error_limit="-1" grade="1" total_question="10">
+            <item question="Technology in the ____ of telecommunications has developed greatly over the last decade. " question_image="" type="0" option1="field" option2="space" option3="the key" option4="economic development" option1_image="" option2_image="" option3_image="" option4_image="" answer="1" />
+            <item question="In the future, ordinary people may travel into ____ on spaceships. " question_image="" type="0" option1="flying cars" option2="space" option3="field" option4="the key" option1_image="" option2_image="" option3_image="" option4_image="" answer="2" />
+            <item question="He said he worked very hard and that was ____ to his success. " question_image="" type="0" option1="space" option2="economic development" option3="the key" option4="field" option1_image="" option2_image="" option3_image="" option4_image="" answer="3" />
+            <item question="An international meeting on ____ took place in Singapore last week." question_image="" type="0" option1="flying cars" option2="space" option3="the key" option4="economic development" option1_image="" option2_image="" option3_image="" option4_image="" answer="4" />
+            <item question="If we had ____ now, we could solve the problem of traffic jams.  " question_image="" type="0" option1="flying cars" option2="the key" option3="field" option4="space" option1_image="" option2_image="" option3_image="" option4_image="" answer="1" />
+          </root>
+        </OLYMPIC_FOOTBALL_INFO>
+        <EXTRA_INFO>
+          <LANGUAGE start="START" restart="Redo" point="Scores" time="Time" overtime="Time up" errorLimit="Try more!" correct="Excellent!" wrong="Sorry!" finished="FINISHED" second="Second" rule="Choose the correct word/ phrase to complete the sentences." gameName="Talented Yellow Frog" />
+        </EXTRA_INFO>
+      </PLUGIN>
+    </ITEM_INFO>
+    <ITEM_INFO label="Science and Technology" title="">
+      <TEXT left="22.25" top="32.9" width="615.9" height="103.6" font="Arial" size="24" align="left" leading="6" id="0">Can you explain the difference between science and technology?</TEXT>
+      <TEXT left="26.3" top="124.25" width="116.9" height="71.9" font="Arial" size="24" color="255" bold="true" align="left" leading="6" animation="0,0" id="1">&lt;B&gt;Science:&lt;/B&gt;</TEXT>
+      <TEXT left="134.1" top="125.05" width="515.35" height="139.85" font="Arial" size="24" color="255" bold="true" align="left" leading="6" animation="3,0" id="2">&lt;B&gt;knowledge about the world, especially based on examining, testing and proving facts&lt;/B&gt;</TEXT>
+      <TEXT left="24.7" top="226.25" width="154.75" height="71.9" font="Arial" size="24" color="16711935" bold="true" align="left" leading="6" animation="0,0" id="3">&lt;B&gt;Technology:&lt;/B&gt;</TEXT>
+      <TEXT left="178.55" top="223.5" width="465.2" height="139.85" font="Arial" size="24" color="16711935" bold="true" align="left" leading="6" animation="0,0" id="4">&lt;B&gt;things and ways of doing things that are based on knowledge about science and computers&lt;/B&gt;</TEXT>
+    </ITEM_INFO>
+    <ITEM_INFO label="Activity 2" title="">
+      <IMAGE url="Data/background_unit_9._a_closer_6.png" left="24.1" top="31.25" xscale="34.886702444842" yscale="17.7159090909091" id="5" />
+      <TEXT left="4.9" top="5.75" width="320.7" height="56.8" font="Arial" size="17" color="10027008" bold="true" align="left" leading="6" id="0">&lt;B&gt;2. &lt;/B&gt;</TEXT>
+      <TEXT left="31.3" top="6.6" width="717.7" height="56.8" font="Arial" size="17" color="10027008" bold="true" align="left" leading="6" id="1">&lt;B&gt;Put one of the words/phrases from the box in each gap. There is one extra.&lt;/B&gt;</TEXT>
+      <PLUGIN url="Common/VDrag.swf" left="16.5" top="30.5" player="vpDrag\VDrag.swf" id="4">
+        <DRAGDROP_INFO>
+          <QUESTION_INFO Question="" Type="0" Image="" Text="1. Her teacher said she was really good at ||science subjects|| , but she     was not very good at English2. Advances in ||technology|| have improved crop yields by over 30%3. Cancer ||researchers|| have made great progress, but many aspects     of this disease need further study.4. Scientists will be trying to invent ||machines||  to teach children at home.5. Thanks to ||scientific progress||. Our world will be transformed greatly." />
+          <INTERERE_INFO List="technique" />
+        </DRAGDROP_INFO>
+        <EXTRA_INFO>
+          <LANGUAGE btn_result="Result" btn_redo="Redo" msg_correct="Very good!" msg_wrong="Sorry! Try again." file_message="Data/SunFlower.swf" file_button="Data/Result.swf" />
+          <TEXTFORMAT _font="Arial" _size="16" _color="255" _bold="true" _italic="false" _underline="false" _align="left" _leading="4" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <PLUGIN url="Common/VShape.swf" left="30.95" top="222.3" player="vpShape\VShape.swf" animation="1,0" id="6">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="0" x1="85.35" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="2" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="27.95" top="219.8" width="101.2" height="58.3" font="Arial" size="18" color="10027059" italic="true" align="left" leading="6" animation="1,0" id="7">&lt;I&gt;sự tiến bộ&lt;/I&gt;</TEXT>
+      <PLUGIN url="Common/VShape.swf" left="539.9" top="255.25" player="vpShape\VShape.swf" animation="1,0" id="8">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="0" x1="62.65" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="2" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="527.15" top="251.45" width="101.2" height="58.3" font="Arial" size="18" color="10027059" italic="true" align="left" leading="6" animation="1,0" id="9">&lt;I&gt;khía cạnh&lt;/I&gt;</TEXT>
+      <PLUGIN url="Common/VShape.swf" left="30.95" top="316.3" player="vpShape\VShape.swf" animation="1,0" id="10">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="0" x1="85.35" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="2" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="27.2" top="312.35" width="134.45" height="58.3" font="Arial" size="18" color="10027059" italic="true" align="left" leading="6" animation="1,0" id="11">&lt;I&gt;nhà khoa học&lt;/I&gt;</TEXT>
+    </ITEM_INFO>
+    <ITEM_INFO label="Prefix UN, IM" title="">
+      <TEXT left="16.5" top="10.7" width="320.15" height="71.7" font="Arial" size="24" color="16711680" bold="true" align="left" leading="6" id="0">&lt;B&gt;3/ Prefix &amp;quot;un-&amp;quot; and &amp;quot;im-&amp;quot;&lt;/B&gt;</TEXT>
+      <TEXT left="24.65" top="47.7" width="620.15" height="103" font="Arial" size="24" align="left" leading="6" animation="1,0" id="1">&lt;FONT COLOR=&quot;#000000&quot;&gt;To make the &lt;FONT COLOR=&quot;#0000CC&quot;&gt;&lt;B&gt;oppostite&lt;/B&gt;&lt;/FONT&gt; meaning of an adjective, we add prefix &amp;quot;&lt;FONT COLOR=&quot;#990000&quot;&gt;&lt;B&gt;un&lt;/B&gt;&lt;/FONT&gt;-&amp;quot; or &amp;quot;&lt;FONT COLOR=&quot;#993300&quot;&gt;&lt;B&gt;im&lt;/B&gt;&lt;/FONT&gt;-&amp;quot; before the adjective. &lt;/FONT&gt;</TEXT>
+      <TEXT left="31.3" top="122.55" width="172.85" height="70.05" font="Arial" size="24" align="left" leading="6" animation="0,0" id="2">Example:</TEXT>
+      <TEXT left="72.5" top="162.1" width="155.55" height="70.05" font="Arial" size="24" align="left" leading="6" animation="0,0" id="3">- necessary</TEXT>
+      <PLUGIN url="Common/VShape.swf" left="246.25" top="181.5" player="vpShape\VShape.swf" animation="0,0" id="4">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="-0.800000000000011" x1="35.35" y0="0" x0="0" type="8" width="100" height="100" lineColor="0" lineThick="1" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="302.1" top="164.5" width="158.05" height="70.05" font="Arial" size="24" align="left" leading="6" autoanimate="true" animation="0,0" id="5">&lt;FONT COLOR=&quot;#990033&quot;&gt;un&lt;FONT COLOR=&quot;#0000CC&quot;&gt;necessary&lt;/FONT&gt;&lt;/FONT&gt;</TEXT>
+      <TEXT left="71.6" top="201.55" width="155.55" height="70.05" font="Arial" size="24" align="left" leading="6" animation="0,0" id="6">- comfortable</TEXT>
+      <PLUGIN url="Common/VShape.swf" left="246.25" top="220.5" player="vpShape\VShape.swf" animation="0,0" id="7">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="-0.800000000000011" x1="35.35" y0="0" x0="0" type="8" width="100" height="100" lineColor="0" lineThick="1" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="301.2" top="205.7" width="158.05" height="70.05" font="Arial" size="24" align="left" leading="6" autoanimate="true" animation="0,0" id="8">&lt;FONT COLOR=&quot;#990033&quot;&gt;un&lt;FONT COLOR=&quot;#0000CC&quot;&gt;comfortable&lt;/FONT&gt;&lt;/FONT&gt;</TEXT>
+      <TEXT left="69.95" top="242.75" width="155.55" height="70.05" font="Arial" size="24" align="left" leading="6" animation="0,0" id="9">- patient</TEXT>
+      <PLUGIN url="Common/VShape.swf" left="246.25" top="261.5" player="vpShape\VShape.swf" animation="0,0" id="10">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="-0.800000000000011" x1="35.35" y0="0" x0="0" type="8" width="100" height="100" lineColor="0" lineThick="1" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="301.2" top="244.7" width="158.05" height="70.05" font="Arial" size="24" align="left" leading="6" autoanimate="true" animation="0,0" id="11">&lt;FONT COLOR=&quot;#990033&quot;&gt;im&lt;FONT COLOR=&quot;#0000CC&quot;&gt;patient&lt;/FONT&gt;&lt;/FONT&gt;</TEXT>
+      <TEXT left="69.95" top="281.75" width="155.55" height="70.05" font="Arial" size="24" align="left" leading="6" animation="0,0" id="12">- polite</TEXT>
+      <PLUGIN url="Common/VShape.swf" left="246.25" top="302.5" player="vpShape\VShape.swf" animation="0,0" id="13">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="-0.800000000000011" x1="35.35" y0="0" x0="0" type="8" width="100" height="100" lineColor="0" lineThick="1" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="301.2" top="284.7" width="158.05" height="70.05" font="Arial" size="24" align="left" leading="6" autoanimate="true" animation="0,0" id="14">&lt;FONT COLOR=&quot;#990033&quot;&gt;im&lt;FONT COLOR=&quot;#0000CC&quot;&gt;polite&lt;/FONT&gt;&lt;/FONT&gt;</TEXT>
+    </ITEM_INFO>
+    <ITEM_INFO label="Activity 3" title="">
+      <TEXT left="4.9" top="5.75" width="321.25" height="56.8" font="Arial" size="17" color="10027008" bold="true" align="left" leading="6" id="0">&lt;B&gt;3. &lt;/B&gt;</TEXT>
+      <TEXT left="28.8" top="5.75" width="678" height="80.95" font="Arial" size="17" color="10027008" align="left" leading="6" id="1">&lt;B&gt;Give the opposite of the words in brackets, using the prefix “un-” or “im-” &lt;/B&gt;</TEXT>
+      <PLUGIN url="Common/VDrag.swf" left="-1.5" top="17.3" xscale="97.0111631256752" player="vpDrag\VDrag.swf" id="2">
+        <DRAGDROP_INFO>
+          <QUESTION_INFO Question="" Type="2" Image="" Text="1. This is a species of insect previously (known) ||unknown||to biologists.2. I don’t like science fiction novels much. I think they are (realistic) ||unrealistic||.3. It is almost (possible) ||impossible|| to keep up with the latest developments     in computing. 4. The teacher said that accurate measurement was (important) ||unimportant||     this experiment. 5. Fortunately, the river flowing through our town is (polluted) ||unpolluted||." />
+          <INTERERE_INFO List="" />
+        </DRAGDROP_INFO>
+        <EXTRA_INFO>
+          <LANGUAGE btn_result="Result" btn_redo="Redo" msg_correct="Excellent" msg_wrong="Sorry! Try again." file_message="Data/SunFlower.swf" file_button="Data/Result.swf" />
+          <TEXTFORMAT _font="Arial Baltic" _size="17" _color="255" _bold="true" _italic="false" _underline="false" _align="left" _leading="4" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <PLUGIN url="Common/VShape.swf" left="106.5" top="68.75" player="vpShape\VShape.swf" animation="1,0" id="3">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="0.0500000000000114" x1="134.45" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="2" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="102.7" top="64.1" width="148.75" height="58.3" font="Arial" size="18" italic="true" align="left" leading="6" animation="1,0" id="4">&lt;I&gt;loài côn trùng&lt;/I&gt;</TEXT>
+      <PLUGIN url="Common/VShape.swf" left="550.05" top="67.6" player="vpShape\VShape.swf" animation="1,0" id="5">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="0.550000000000026" x1="89.8500000000003" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="2" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="511.25" top="62.7" width="145" height="58.3" font="Arial" size="18" italic="true" align="left" leading="6" animation="1,0" id="6">&lt;I&gt;nhà sinh vật học&lt;/I&gt;</TEXT>
+      <PLUGIN url="Common/VShape.swf" left="206.5" top="197.75" player="vpShape\VShape.swf" animation="1,0" id="7">
+        <SHAPE_INFO pointNum="2">
+          <OBJECT_INFO y1="0" x1="191.05" y0="0" x0="0" type="7" width="100" height="100" lineColor="16711680" lineThick="2" backColor="15923193" backTrans="100" label="" />
+        </SHAPE_INFO>
+        <EXTRA_INFO>
+          <TEXTFORMAT _font="Arial" _size="20" _color="0" _bold="false" _italic="false" _underline="false" _align="center" _leading="0" _bullet="false" />
+        </EXTRA_INFO>
+      </PLUGIN>
+      <TEXT left="221.3" top="194.1" width="176.7" height="58.3" font="Arial" size="18" italic="true" align="left" leading="6" animation="0,0" id="8">&lt;I&gt;phép đo chính xác&lt;/I&gt;</TEXT>
+    </ITEM_INFO>
+  </SECTION_INFO>
+  <SECTION_INFO label="THE END">
+    <ITEM_INFO label="Homework" title="">
+      <IMAGE url="Data/backgroundnumber6.jpg" left="-3.35" top="-24.4" xscale="103.182515337423" yscale="103.186197186385" id="3" />
+      <TEXT left="60.9" top="31.25" width="575.6" height="64.9" font="Arial" size="48" color="16777215" bold="true" align="left" leading="6" id="0">Homework</TEXT>
+      <TEXT left="52.65" top="104.5" width="585.6" height="182.6" font="Arial" size="30" color="16776960" bold="true" align="left" leading="12" bullet="true" autoanimate="true" animation="2,0" lineSpace="16" id="1">Learn the new words by heartRedo the tasksDo exercises in the workbookPrepare for Lesson 2. A Closer Look 1</TEXT>
+    </ITEM_INFO>
+    <ITEM_INFO label="Goodbye" title="">
+      <IMAGE url="Data/Technology_Background_Images_1.jpg" left="-48.1" top="-5.25" xscale="39.7005208333333" yscale="39.7010756226971" id="0" />
+      <TEXT left="20" top="20" width="627.25" height="58.3" font="Nueva Std" size="48" color="16711680" bold="true" align="center" leading="6" autoanimate="true" animation="13,0" id="1">Thanks for your attendance!</TEXT>
+      <TEXT left="38.65" top="83.9" width="605.85" height="46.75" font="Nueva Std" size="36" bold="true" align="center" leading="6" autoanimate="true" animation="13,0" id="2">Goodbye. See you again.</TEXT>
+    </ITEM_INFO>
+  </SECTION_INFO>
+</LECTURE_INFO>
